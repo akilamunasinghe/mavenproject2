@@ -37,7 +37,7 @@ public class TranscriberDemo {
         SpeechResult result;
         // Pause recognition process. It can be resumed then with startRecognition(false).
         do{
-            //jskdhfsd
+            //akila
             result = recognizer.getResult();
             //System.out.format("Hypothesis: %s\n", result.getHypothesis());
             str=result.getHypothesis();
